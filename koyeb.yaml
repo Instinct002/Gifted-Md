@@ -11,7 +11,7 @@ ports:
 
 env:
   AUTO_READ: false
-  AUTO_READ_STATUS: true
+  AUTO_READ_STATUS: false
   AUTO_RECORDING: false
   AUTO_REJECT_CALLS: false
   DEPLOYMENT_PLATFORM: koyeb
