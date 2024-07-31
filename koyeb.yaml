@@ -1,4 +1,4 @@
-name: gifted-md-v5
+name: MIDAS-MD-v002
 type: WEB
 
 routes:
@@ -15,7 +15,7 @@ env:
   AUTO_RECORDING: false
   AUTO_REJECT_CALLS: false
   DEPLOYMENT_PLATFORM: koyeb
-  KOYEB_APP_NAME: Gifted-Md
+  KOYEB_APP_NAME: MIDAS-MD
 
 regions:
   - fra
