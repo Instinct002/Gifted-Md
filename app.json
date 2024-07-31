@@ -15,7 +15,7 @@
     },
      "OWNER_NAME": {
       "description": "Put the name of Bot Owner",
-      "required": false,
+      "required": true,
       "value": "ᬊ᭄ƖƝSTƖƝCT"
     },
     "SESSION_ID": {
