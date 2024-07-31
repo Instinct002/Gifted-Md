@@ -1,12 +1,12 @@
 {
-  "name": "gifted-md@v5.0.0",
-  "description": "I am Gifted-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
+  "name": "MIDAS-MD",
+  "description": "I am MIDSAS-MD Whatsapp MultiDevice Whatsapp Bot created by ᬊ᭄ƖƝSTƖƝCT to make experience better",
   "website": "https://web.giftedtechnexus.co.ke",
   "repository": "https://github.com/mouricedevs/gifted-md",
-  "logo": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
+  "logo": "https://drive.google.com/file/d/1XkfSPC51qs3znG0BhDosP7trH2uLpTe1/view?usp=drivesdk",
   "keywords": ["gifted-md", "giftedtech", "Gifted-Md"],
   "success_url": "/",
-  "stack": "heroku-24",
+  "stack": "ᬊ᭄ƖƝSTƖƝCT",
   "env": { 
     "MODE": {
       "description": "Put Mode either public or private",
@@ -16,17 +16,17 @@
      "OWNER_NAME": {
       "description": "Put the name of Bot Owner",
       "required": false,
-      "value": "GIFTED TECH"
+      "value": "ᬊ᭄ƖƝSTƖƝCT"
     },
     "SESSION_ID": {
       "description": "Put Your SESSION_ID Here. It must startwithGifted~",
       "required": true,
-      "value": ""
+      "value": "Gifted~hZfjMEW9"
     },
     "OWNER_NUMBER": {
       "description": "Put Bot Owner Number",
       "required": false,
-      "value": "254110853827"
+      "value": "2349161904543"
     },
      "NOT_ALLOW": {
       "description": "Put value true to disable bot in pm during public mode.",
@@ -46,12 +46,12 @@
     "AUTO_READ": {
       "description": "Put true if you want bot to read message",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "AUTO_TYPING": {
       "description": "Put true if you want bot to show typing",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "AUTO_RECORDING": {
       "description": "Put true if you want bot to show recording audio",
@@ -61,12 +61,12 @@
     "ALWAYS_ONLINE": {
       "description": "Put true if you want bot to show always online",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "AUTO_DOWNLOAD": {
       "description": "Put true if you need to download media by using link without cmd",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "AUTO_BLOCK": {
       "description": "Put true if you want bot to auto block only 212 numbers",
@@ -76,7 +76,7 @@
     "AUTO_REACT": {
       "description": "Put value to true or false",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
      "HEROKU_APP_NAME": {
       "description": "Put your heroku app name as entered above.",
