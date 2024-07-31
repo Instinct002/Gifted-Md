@@ -1,17 +1,17 @@
 {
-  "name": "gifted-md",
-  "version": "5.0.0",
-  "description": "Gifted latest multi device whatsapp bot",
-  "main": "./gifted/gifted.js",
+  "name": "MIDAS-MD",
+  "version": "0.0.2",
+  "description": "ᬊ᭄ƖƝSTƖƝCT latest multi device whatsapp bot",
+  "main": "./MIDAS/MIDAS.MD",
   "type": "module",
   "engines" : { "node": "v20.15.1", "npm": "10.8.2" },
   "scripts": {
-    "start": "pm2 start gifted/gifted.js --deep-monitoring --attach --name gifted",
-    "stop": "pm2 stop gifted",
-    "restart": "pm2 restart gifted"
+    "start": "pm2 start midas/midas.md --deep-monitoring --attach --name midas",
+    "stop": "pm2 stop midas",
+    "restart": "pm2 restart midas"
   },
-  "keywords": ["gifted-md", "whatsapp-bot", "gifted-tech"],
-  "author": "Gifted Tech",
+  "keywords": ["MIDAS-MD", "whatsapp-bot", "ᬊ᭄ƖƝSTƖƝCT"],
+  "author": "ᬊ᭄ƖƝSTƖƝCT",
   "license": "GNU",
   "dependencies": {
     "@distube/ytdl-core": "^4.13.5",
